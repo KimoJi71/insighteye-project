@@ -104,7 +104,7 @@ export default {
           align: 'left',
           field: 'birthday',
           sortable: true,
-          showFilter: true,
+          showFilter: false,
         },
       ],
       rows: [],
